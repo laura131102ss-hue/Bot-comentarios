@@ -1,7 +1,7 @@
 ﻿F12::
 Loop 100
 {
-   Loop 5
+   Loop 10000
    {
 	Send {Click Left}
 	Sleep 500
